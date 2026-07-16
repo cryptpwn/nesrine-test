@@ -37,7 +37,7 @@ export default function Navbar() {
             <Sparkles className="h-5 w-5" />
           </span>
           <span className="font-display font-bold text-lg text-slate-900 tracking-tight">
-            Éclat<span className="text-brand-600">Pro</span>
+            Nesrine<span className="text-brand-600">Pro</span>
           </span>
         </a>
 

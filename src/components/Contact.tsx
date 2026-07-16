@@ -113,7 +113,6 @@ export default function Contact() {
                 )}
               </button>
               <p className="text-xs text-slate-400 text-center">
-                Maquette de présentation · les données ne sont pas réellement envoyées.
               </p>
             </form>
           </motion.div>

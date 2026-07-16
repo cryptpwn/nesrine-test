@@ -32,7 +32,7 @@ export default function Footer() {
                 <Sparkles className="h-5 w-5" />
               </span>
               <span className="font-display font-bold text-lg text-white">
-                Éclat<span className="text-brand-400">Pro</span>
+                Nesrine<span className="text-brand-400">Pro</span>
               </span>
             </a>
             <p className="mt-4 text-slate-400 leading-relaxed max-w-sm">
@@ -80,14 +80,13 @@ export default function Footer() {
             <div className="mt-5 text-sm text-slate-400 space-y-1">
               <p>12 rue Lorem Ipsum, Lyon</p>
               <p>+33 1 23 45 67 89</p>
-              <p>contact@eclatpro.fr</p>
+              <p>contact@nesrine.test</p>
             </div>
           </div>
         </div>
 
         <div className="mt-12 pt-6 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-3 text-sm text-slate-500">
-          <p>© {new Date().getFullYear()} ÉclatPro · Maquette de présentation. Tous droits réservés.</p>
-          <p>Conçu avec soin · Lorem ipsum dolor sit amet.</p>
+          <p>© {new Date().getFullYear()} Nesrine-test · Tous droits réservés.</p>
         </div>
       </div>
     </footer>
